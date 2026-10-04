@@ -1,0 +1,6 @@
+{
+  "name": "CertiChain — Blockchain Digital Certificate Verification",
+  "description": "Trust certificates through blockchain-backed cryptographic verification. Issue tamper-evident credentials, verify on-chain hashes, and detect document alterations instantly.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
